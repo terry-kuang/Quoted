@@ -149,4 +149,4 @@ async def clear(ctx, *, name):
     await ctx.send(f"{name}'s quotes have been cleared")
 
 
-client.run('Nzk0Mzg0MTE3MjE4NTQxNTcw.X-6B3A.EvL7cUBNUByPA34HMG5UF0nkVOw')
+client.run('token')
